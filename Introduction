@@ -1,0 +1,20 @@
+<name>Super Mario Sunshine</name>
+<authors>
+   <author !--- Nintendo EAD -->
+</authors>
+<contributors>
+   <contributor !--- Intelligent Systems -->
+   <contributor !--- Hudson INC -->
+</contributors>
+<scene> </scene>
+   <scene> Toadsworth{3f}, sit{2b}
+     <scene> ! Princess Peach 'Oh, look at that'
+       <scene> ! Blue Pianta 'Welcome to the sun-drenched tropical paradise of Isle Delfino. We're so pleased to you to our beatiful home.
+       Come enjoy a natural wonder-land to which we've added the world's finest resort facilities, a spectacular amusement park and
+       suculent seafood.'
+         <scene> ! Mario 'Ooooh'{Imps}
+           <scene> ! Blue Pianta 'This and more await you on Isle Delfino. Come relax and let us refresh your body and spirit.'
+             <scene> ! Princess Peach 'Mario?'{Ques}
+               <scene> ! Princess Peach 'That...that shadow...'! Mario 'Ooo-oh'{Conf}
+                 <scene> ! Princess Peach 'Toadsworth, did you see...?'! Toadsworth 'Mmmm, well'{Rela}! Princess Peach 'Aaaah'
+</scene> 
